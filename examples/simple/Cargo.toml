@@ -1,0 +1,8 @@
+[package]
+name = "simple"
+version = "0.0.0"
+authors = ["Kunal Sarkhel <ksarkhel@gmu.edu>"]
+workspace = "../../"
+
+[dependencies]
+pgpdump = { path = "../../lib" }
