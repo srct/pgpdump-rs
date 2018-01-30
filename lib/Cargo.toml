@@ -8,6 +8,10 @@ log = "0.4.1"
 yaml-rust = ">= 0.3"
 clap = {version = "2", features = ["yaml"]}
 clippy = { version = "*", optional = true }
+base64 = "~0.6.0"
+crc24 = "0.1.5"
+byteorder = "1"
+
 
 [lib]
 name = "pgpdump"

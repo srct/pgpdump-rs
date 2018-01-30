@@ -5,6 +5,7 @@ use std::str::FromStr;
 
 fn main() {
     let data: &'static str = "-----BEGIN PGP PUBLIC KEY BLOCK-----
+
 mQENBFXl288BCADOLAwf89kuek78E66ek+AXD8jojlaFoJcoO+Du51m8XJIWDzAF
 Gnvff5NDZhqNgpC28CYHkzekfcNq3rXxeGx610a1zKI2ZRwk6ogvLWa5UoTVsWHy
 712zwtLtlt7Y6AMdFyPNuSNq+dKc+6WX0R3N+kaaUYw4GnWQLi+odChkWnwklsvJ
