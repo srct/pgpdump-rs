@@ -1,5 +1,5 @@
 # pgpdump-rs
-[![Build Status](https://travis-ci.org/techwizrd/pgpdump-rs.svg?branch=master)](https://travis-ci.org/techwizrd/pgpdump-rs)
+[![Build Status](https://travis-ci.org/srct/pgpdump-rs.svg?branch=master)](https://travis-ci.org/srct/pgpdump-rs)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Rust implementation of the PGP packet visualizer. pgpdump-rs displays packets according to the format described in  a PGP packet visualizer which displays packets in the format described by [RFC 4880](https://tools.ietf.org/html/rfc4880) and [RFC 1991](https://tools.ietf.org/html/rfc1991). This is also a library that you can embed in your own projects to parse PGP packets in binary/ASCII-armored representations.
