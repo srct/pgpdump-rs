@@ -13,7 +13,7 @@ This is heavily inspired by the following projects:
 Include the following in your `Cargo.toml`
 ```toml
 [dependencies]
-pgpdump = { git = "https://git.gmu.edu/ksarkhel/pgpdump-rs" }
+pgpdump = { git = "https://github.com/srct/pgpdump-rs" }
 ```
 
 You can then use it in your projects using
